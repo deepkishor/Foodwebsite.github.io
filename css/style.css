@@ -19,7 +19,6 @@ html{
     top: 0px;
     height: 80px;
     position: sticky;
-    font-family: 'Josefin Slab', serif;
 }
 
 #navbar::before{
@@ -49,7 +48,7 @@ html{
 
 #navbar ul{
     display: flex;
-    font-family: 'Josefin Sans', sans-serif;
+    font-family: 'Josefin Slab', serif;
 }
 
 #navbar ul li{
