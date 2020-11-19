@@ -209,6 +209,7 @@ footer{
     font-size: 1.5rem;
     border-radius: 10px;
     cursor: pointer;
+    font-family: 'Satisfy', cursive;
 }
 
 .center{
@@ -224,4 +225,5 @@ footer{
     font-size: 1.5rem;
     border-radius: 10px;
     cursor: pointer;
+    font-family: 'Satisfy', cursive;
 }
