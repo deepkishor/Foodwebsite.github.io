@@ -19,6 +19,7 @@ html{
     top: 0px;
     height: 80px;
     position: sticky;
+    font-family: 'Josefin Slab', serif;
 }
 
 #navbar::before{
