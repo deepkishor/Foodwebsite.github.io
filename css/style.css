@@ -146,7 +146,6 @@ html{
 
 #contact{
     position: relative;
-    font-family: 'Josefin Sans', sans-serif;
 }
 
 #contact::before{
@@ -173,6 +172,7 @@ html{
     padding: 0.5rem;
     border-radius: 9px;
     font-size: 1.1rem;
+    font-family: 'Josefin Slab', serif;
 }
 
 #contact-box form{
@@ -181,6 +181,7 @@ html{
 
 #contact-box label{
     font-size: 1.3rem;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 #contact-box .form-group{
