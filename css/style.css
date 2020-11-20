@@ -146,7 +146,6 @@ html{
 #contact{
     position: relative;
     font-family: 'Josefin Sans', sans-serif;
-    z-index: -1;
 }
 
 #contact::before{
