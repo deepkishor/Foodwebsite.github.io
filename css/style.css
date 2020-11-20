@@ -96,6 +96,7 @@ html{
 #home h1{
     color: white;
     text-align: center;
+    letter-spacing: 4px;
 }
 
 #home p{
